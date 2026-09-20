@@ -1,0 +1,6 @@
+Shipment validation rules
+
+- AWB must be present.
+- Origin must be present.
+- Destination must be present.
+- Weight must be greater than zero.
